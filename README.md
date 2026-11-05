@@ -1,4 +1,11 @@
-# Kimi Chat Exporter · 聊天记录导出器 · 会話エクスポーター
+# Kimi 聊天记录导出器
+
+免费、公开源码的社区项目，用于导出、下载、保存和备份自己有权访问的Kimi完整对话与消息。PDF打印、Markdown、纯文本TXT、JSON；中英日界面；无需扩展账号。
+
+> 测试版：仅完成模拟接口验证，真实登录账号验收尚未完成。无法确认完整历史时停止导出。
+
+[Downloads / 下载 / ダウンロード](https://github.com/zhx6172815/kimi-chat-exporter/releases) · [Privacy / 隐私](PRIVACY.md)
+
 
 **免费、无水印、不限导出次数、无需扩展账号。**
 **Free, no watermark, no export quota, no extension account.**
@@ -8,7 +15,7 @@
 > Beta: new platforms are fixture-tested, with live-account validation pending. Incomplete history is rejected.
 > ベータ版：新サービスは模擬データで検証済みですが、実アカウントでの検証は未完了です。
 
-[下载 / Downloads / ダウンロード](https://github.com/zhx6172815/kimi-chat-exporter/releases/tag/v0.1.1-beta.1) · [隐私 / Privacy](PRIVACY.md) · [产品目录 / Catalog](https://github.com/zhx6172815/ai-chat-exporter#products)
+[下载 / Downloads / ダウンロード](https://github.com/zhx6172815/kimi-chat-exporter/releases/tag/v0.1.2-beta.1) · [隐私 / Privacy](PRIVACY.md) · [产品目录 / Catalog](https://github.com/zhx6172815/ai-chat-exporter#products)
 
 ## 中文
 
